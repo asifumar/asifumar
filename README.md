@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Umar Sharif
 
-<!--
-**asifumar/asifumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software/AI Engineer
 
-Here are some ideas to get you started:
+I build practical AI systems grounded in a background of production-grade software engineering for real-time systems. I turn abstract machine learning models into reliable software products that solve real problems, closing the gap between research and practical use. That means automating complex decisions, turning messy unstructured data into actionable insight, and giving people AI-powered tools that boost everyday productivity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+# My Expertise
+- ✅ LoRA fine-tuning to adapt LLMs efficiently for domain-specific tasks
+- ✅ RAG pipeline design connecting embeddings, vector search, and LLMs
+- ✅ Local LLM inference (Ollama) for private, offline AI workflows
+- ✅ Production model serving via FastAPI
+- ✅ Distributed, hardware-integrated systems for real-time data pipelines
+- ✅ REST API and backend service design for high-volume telemetry and data ingestion, enabling downstream ML workflows
+- ✅ CI/CD validation pipelines for hardware-integrated distributed systems
+- ✅ Cross-functional collaboration with scientists and engineers in Agile environments
+
+---
+
+# Tech Stack
+- AI/ML: PyTorch, Hugging Face Transformers, PEFT/LoRA, LangChain, RAG, FAISS, FastEmbed, Ollama, Scikit-learn
+- Languages: Python, C, C++, JavaScript, SQL
+- Backend/Web: Flask, Django, FastAPI, REST APIs, MySQL
+- Systems: MPI, multithreaded/asynchronous processing, distributed systems, CI/CD, Docker
+
