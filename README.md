@@ -2,8 +2,7 @@
 
 ### Software/AI Engineer
 
-I'm a Software and Applied ML Engineer — a problem solver with a strong computer science, coding, and mathematical foundation, a quick aptitude for learning, and effective collaboration skills.
-
+I'm a Software and Applied ML Engineer with a strong computer science, coding, and mathematical foundation. Also a quick learner and an effective collaborator, and a dedicated problem solver at heart.
 I build practical AI systems grounded in production-grade software engineering practices. I turn abstract machine learning models into reliable software products that solve real problems, closing the gap between research and practical use. That means automating complex decisions, turning messy unstructured data into actionable insight, and giving people AI-powered tools that boost everyday productivity.
 
 # My Expertise
