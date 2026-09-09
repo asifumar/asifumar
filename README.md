@@ -2,18 +2,18 @@
 
 ### Software/AI Engineer
 
-I'm a Software and Applied ML Engineer with a strong computer science, coding, and mathematical foundation. Also a quick learner and an effective collaborator, and a dedicated problem solver at heart.
-I build practical AI systems grounded in production-grade software engineering practices. I turn abstract machine learning models into reliable software products that solve real problems, closing the gap between research and practical use. That means automating complex decisions, turning messy unstructured data into actionable insight, and giving people AI-powered tools that boost everyday productivity.
+I'm a software engineer with a strong computer science, coding, and mathematical foundation, and 6+ years of experience building high-throughput, hardware-integrated distributed systems in C/C++ and Python, along with the backend services that keep them reliable in production.
+More recently, I've brought that same engineering rigor to practical AI systems. I turn abstract machine learning models into reliable software products that solve real problems, closing the gap between research and practical use. That means automating complex decisions, turning messy unstructured data into actionable insight, and giving people AI-powered tools that boost everyday productivity.
 
 # My Expertise
-- ✅ LoRA fine-tuning to adapt LLMs efficiently for domain-specific tasks
-- ✅ RAG pipeline design connecting embeddings, vector search, and LLMs
-- ✅ Local LLM inference (Ollama) for private, offline AI workflows
-- ✅ Production model serving via FastAPI
-- ✅ Distributed, hardware-integrated systems for real-time data pipelines
-- ✅ REST API and backend service design for high-volume telemetry and data ingestion, enabling downstream ML workflows
-- ✅ CI/CD validation pipelines for hardware-integrated distributed systems
-- ✅ Cross-functional collaboration with scientists and engineers in Agile environments
+✅ Distributed, hardware-integrated systems for real-time data pipelines
+✅ REST API and backend service design for high-volume data ingestion and processing
+✅ CI/CD validation pipelines for distributed systems
+✅ RAG pipeline design connecting embeddings, vector search, and LLMs
+✅ LoRA fine-tuning to adapt LLMs efficiently for domain-specific tasks
+✅ Local LLM inference for private, offline AI workflows
+✅ Production model serving via FastAPI
+
 
 ---
 
