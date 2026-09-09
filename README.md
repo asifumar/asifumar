@@ -1,4 +1,4 @@
-# Hi, I'm Umar Sharif
+# Hi, I'm Md Umar Sharif
 
 ### Software/AI Engineer
 
@@ -14,12 +14,9 @@ More recently, I've brought that same engineering rigor to practical AI systems.
 ✅ Local LLM inference for private, offline AI workflows
 ✅ Production model serving via FastAPI
 
-
----
-
 # Tech Stack
-- AI/ML: PyTorch, Hugging Face Transformers, PEFT/LoRA, LangChain, RAG, FAISS, FastEmbed, Ollama, Scikit-learn
+- AI/ML: PyTorch, Hugging Face Transformers, PEFT/LoRA, LangChain, RAG, FAISS, FastEmbed, Ollama
 - Languages: Python, C, C++, JavaScript, SQL
+- Data Analytics: Pandas, NumPy, Scikit-learn, Matplotlib, Google BigQuery
 - Backend/Web: Flask, Django, FastAPI, REST APIs, MySQL
 - Systems: MPI, multithreaded/asynchronous processing, distributed systems, CI/CD, Docker
-
